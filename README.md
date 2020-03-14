@@ -18,9 +18,9 @@
  <br>
  
 - SOS 어플리케이션
- - 개발 기간: 2019/04/21 ~ 2019/05/27  
- - [설명](https://github.com/minji-o-j/SOS-Application/blob/master/README.md)(업로드 예정)  
- - [소스 코드](https://github.com/minji-o-j/SOS-Application)(업로드 예정)
+  - 개발 기간: 2019/04/21 ~ 2019/05/27  
+  - [설명](https://github.com/minji-o-j/SOS-Application/blob/master/README.md)(업로드 예정)  
+  - [소스 코드](https://github.com/minji-o-j/SOS-Application)(업로드 예정)
   <br>
   
 - 시선 추적을 이용한 잠금 해제 시스템
