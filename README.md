@@ -37,7 +37,7 @@
 
 - 음식 추천 어플리케이션  
   - 개발 기간: 2019년 11, 12월  
-  - 설명 (업로드 예정)  
+  - [설명](https://github.com/minji-o-j/Food-Recommendation-Application/blob/master/README.md)(업로드 예정)  
   - 소스 코드(미공개)
   
 
