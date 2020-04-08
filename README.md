@@ -31,7 +31,7 @@
   
 - 독거노인을 위한 AI 스피커  
   - 개발 기간: 2019/09/25 ~ 2019/12/05
-  - [설명](https://github.com/minji-o-j/AI-Speaker-for-Senior-Citizen/blob/master/README.md)(업로드 예정)  
+  - [설명](https://github.com/minji-o-j/AI-Speaker-for-Senior-Citizen/blob/master/README.md)
   - [소스 코드](https://github.com/minji-o-j/AI-Speaker-for-Senior-Citizen)(업로드 예정)  
 <br>
 
