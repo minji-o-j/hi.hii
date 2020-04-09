@@ -22,7 +22,14 @@
   - [설명](https://github.com/minji-o-j/SOS-Application/blob/master/README.md)(업로드 예정)  
   - [소스 코드](https://github.com/minji-o-j/SOS-Application)(업로드 예정)
 <br>
+
+- 홍콩에서의 소확행
+  - 개발 기간 : 2019 여름
+  - 설명(업로드 예정)
+  - 소스 코드(업로드 예정)
   
+<br>
+
 - 시선 추적을 이용한 잠금 해제 시스템  
   - 개발 기간: 2019/08/19 ~ 2019/09/11  
   - [설명](https://github.com/minji-o-j/Unlocking-System-with-Gaze-Tracking/blob/master/README.md)
