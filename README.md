@@ -53,30 +53,35 @@
 ## 수업 실습
 ### 2019
 - 홍콩에서의 소확행
+  - UIUX
   - 개발 기간 : 2019 1학기
   - 설명(업로드 예정)
   - 소스 코드(업로드 예정)  
 <br>
 
 - Hadamard 변환기 만들기    
+  - DSP
   - 2019 2학기  
   - 설명 (업로드 예정)  
   - [소스 코드](https://github.com/minji-o-j/DSP/tree/master/hadamard)  
 <br>
   
 - CT 구현하기  
+  - DSP
   - 2019 2학기
   - 설명(업로드 예정)
   - 소스 코드(업로드 예정)
 <br>
 
 - FCFS  
+  - Operating system
   - 2019 2학기
   - 설명(업로드 예정)
   - [소스 코드](https://github.com/minji-o-j/Operating-System_19Fall/tree/master/FCFS)
 <br>
 
 - Round Robin
+  - Operating system
   - 2019 2학기
   - 설명(업로드 예정)
   - [소스 코드](https://github.com/minji-o-j/Operating-System_19Fall/tree/master/RoundRobin)
