@@ -49,6 +49,11 @@
   - [소스 코드](https://github.com/minji-o-j/system-for-blinds) (업로드 예정)
 <br>
 
+- 와인 품질 예측
+  - 개발 기간: 
+  - 설명(업로드 예정)
+  - 소스 코드
+
 
 ## 수업 실습
 ### 2019
@@ -85,3 +90,11 @@
   - 2019 2학기
   - 설명(업로드 예정)
   - [소스 코드](https://github.com/minji-o-j/Operating-System_19Fall/tree/master/RoundRobin)
+  
+  <br>
+  <br>
+  ### 2020
+  - 붓꽃 데이터 분류
+  - MNIST
+  - CIFAR10 정확도 높이기
+
