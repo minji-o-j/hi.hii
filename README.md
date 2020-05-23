@@ -93,8 +93,11 @@
   
   <br>
   <br>
-  ### 2020
-  - 붓꽃 데이터 분류
-  - MNIST
-  - CIFAR10 정확도 높이기
+  ### 2020  
+- 블록체인 실습  
+   - 오픈API  
+   - [소스 코드](https://github.com/minji-o-j/BlockChain)
+- 붓꽃 데이터 분류  
+- MNIST  
+- CIFAR10 정확도 높이기  
 
