@@ -18,9 +18,9 @@
 ---
 ## 프로젝트
 ### 멜론 플레이리스트 예측하기(비공개)
-- 개발 기간: 2020/07~(진행중)
-- 소개: [kakao arena](https://arena.kakao.com/c/7)에서 제공하는 dataset을 이용한 멜론 플레이리스트 예측 해보기
-- 역할: 
+- **개발 기간**: 2020/07~(진행중)
+- **소개**: [kakao arena](https://arena.kakao.com/c/7)에서 제공하는 dataset을 이용한 멜론 플레이리스트 예측 해보기
+- **역할**: 
 - tag: `python` `text-mining` `data-analysis`
 
 <br>
@@ -33,10 +33,10 @@
 <br>
 
 ### [와인 품질 예측](https://github.com/minji-o-j/Wine-Quality) (설명 업로드 예정)  
-- 2020-1 기계학습 수업 프로젝트
-- 개발 기간: 2020/04/03~2020/06/13
-- 역할
-- 개발 언어: python
+- 2020-1 기계학습 수업 프로젝트  
+- 개발 기간: 2020/04/03 ~ 2020/06/13  
+- 역할: SVM, Random-Forest 등을 이용한 와인 품질 예측 모델 제작  
+- 개발 언어: python  
 - tag: `python` `Machine-Learning` `Deep-Learning` `data-analysis`
 <br>
 
