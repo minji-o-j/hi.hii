@@ -36,7 +36,7 @@
 
 
 ---
-
+<!--
 - 뇌파 힐링기  
   - 개발 기간: 2018/08/24~2018/09/10
   - [설명](https://github.com/minji-o-j/Healing-Machine-with-BrainWave/blob/master/README.md)
@@ -122,3 +122,4 @@
    - [소스 코드](https://github.com/minji-o-j/BlockChain)
 
 
+-->
