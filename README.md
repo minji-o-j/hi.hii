@@ -52,7 +52,7 @@
 - 와인 품질 예측
   - 개발 기간: 
   - 설명(업로드 예정)
-  - 소스 코드
+  - [소스 코드](https://github.com/minji-o-j/Wine-Quality)
 
 
 ## 수업 실습  
