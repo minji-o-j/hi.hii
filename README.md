@@ -35,7 +35,7 @@
 - 개발 기간: 2019/10/30 ~ 2019/12/16 
 - 역할: 
 - 개발 언어: java
-- tag: `java` `android-studio` `ppg` `fft`
+- tag: `java` `android-studio` `ppg` `hci`
 
 ---
 <!--
