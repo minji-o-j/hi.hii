@@ -10,13 +10,32 @@
 - 상태: 상명대학교 휴먼지능정보공학과 재학중
 
 ---
-## 기술
+<!--## 기술
 ### 활용 가능
 ### 간단한 기능 구현 가능
-### 사용 경험 있음
+### 사용 경험 있음-->
 
 ---
 ## 프로젝트
+### 멜론 플레이리스트 예측하기(비공개)
+  - 소개: 
+  - 개발 기간: 2020/07~(진행중)
+  - 역할: 
+  - 관련 기술
+  - 설명(업로드 예정)
+
+### [시각장애인을 위한 도보 환경 알리미](https://github.com/minji-o-j/system-for-visually-impaired)
+  - 개발 기간: 2020/04~
+  
+  - 설명(업로드 예정)
+  
+### 음식 추천 어플리케이션  
+  - 개발 기간: 2019/10/30 ~ 2019/12/16
+  - [설명](https://github.com/minji-o-j/Food-Recommendation-Application/blob/master/README.md)(업로드 예정)  
+  
+
+
+---
 
 - 뇌파 힐링기  
   - 개발 기간: 2018/08/24~2018/09/10
@@ -48,16 +67,7 @@
   - [소스 코드](https://github.com/minji-o-j/AI-Speaker-for-Senior-Citizen)(업로드 예정)  
 <br>
 
-- 음식 추천 어플리케이션  
-  - 개발 기간: 2019/10/30 ~ 2019/12/16
-  - [설명](https://github.com/minji-o-j/Food-Recommendation-Application/blob/master/README.md)(업로드 예정)  
-  - 소스 코드(미공개)
-  
 
-- 시각장애인을 위한 도보 환경 알리미
-  - 개발 기간: 2020/04~
-  - 설명(업로드 예정)
-  - [소스 코드](https://github.com/minji-o-j/system-for-blinds) (업로드 예정)
 <br>
 
 - 와인 품질 예측
@@ -65,6 +75,7 @@
   - 설명(업로드 예정)
   - [소스 코드](https://github.com/minji-o-j/Wine-Quality)
 
+---
 
 ## 수업 실습  
 ### 2019
