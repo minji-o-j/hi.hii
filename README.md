@@ -21,7 +21,7 @@
 - **개발 기간**: 2020/07~(진행중)
 - **소개**: [kakao arena](https://arena.kakao.com/c/7)에서 제공하는 dataset을 이용한 멜론 플레이리스트 예측 해보기
 - **역할**: 
-- tag: `python` `text-mining` `data-analysis`
+- **tag**: `python` `text-mining` `data-analysis`
 
 <br>
 
