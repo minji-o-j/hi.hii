@@ -18,20 +18,18 @@
 ---
 ## 프로젝트
 ### 멜론 플레이리스트 예측하기(비공개)
-  - 소개: 
-  - 개발 기간: 2020/07~(진행중)
-  - 역할: 
-  - 관련 기술
-  - 설명(업로드 예정)
+- 소개: [kakao arena](https://arena.kakao.com/c/7)에서 제공하는 dataset을 이용한 멜론 플레이리스트 예측 해보기
+- 개발 기간: 2020/07~(진행중)
+- 역할: 
+- 관련 기술
 
 ### [시각장애인을 위한 도보 환경 알리미](https://github.com/minji-o-j/system-for-visually-impaired)
-  - 개발 기간: 2020/04~
+- 개발 기간: 2020/04~(진행중)
+- 2020-1 교내 상생플러스 최우수상 수상
   
-  - 설명(업로드 예정)
-  
-### 음식 추천 어플리케이션  
-  - 개발 기간: 2019/10/30 ~ 2019/12/16
-  - [설명](https://github.com/minji-o-j/Food-Recommendation-Application/blob/master/README.md)(업로드 예정)  
+### [음식 추천 어플리케이션](https://github.com/minji-o-j/Food-Recommendation-Application) (수정 예정)  
+- 2019-2 hci 수업 프로젝트
+- 개발 기간: 2019/10/30 ~ 2019/12/16 
   
 
 
