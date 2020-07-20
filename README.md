@@ -21,21 +21,33 @@
 - 개발 기간: 2020/07~(진행중)
 - 소개: [kakao arena](https://arena.kakao.com/c/7)에서 제공하는 dataset을 이용한 멜론 플레이리스트 예측 해보기
 - 역할: 
-- tag: `python` `text-mining` `dataframe`
+- tag: `python` `text-mining` `data-analysis`
+
+<br>
 
 ### [시각장애인을 위한 도보 환경 알리미](https://github.com/minji-o-j/system-for-visually-impaired)
 - 개발 기간: 2020/04~(진행중)
 - 소개: 
   - 2020-1 교내 상생플러스 최우수상 수상
 - tag: `python` `tensorflow` `CNN` `object-detection` 
-  
-### [음식 추천 어플리케이션](https://github.com/minji-o-j/Food-Recommendation-Application) (수정 예정)  
+<br>
+
+### [와인 품질 예측](https://github.com/minji-o-j/Wine-Quality) (설명 업로드 예정)  
+- 2020-1 기계학습 수업 프로젝트
+- 개발 기간: 2020/04/03~2020/06/13
+- 역할
+- 개발 언어: python
+- tag: `python` `Machine-Learning` `Deep-Learning` `data-analysis`
+<br>
+
+### [음식 추천 어플리케이션](https://github.com/minji-o-j/Food-Recommendation-Application) (설명, 코드 업로드 예정)  
 - 2019-2 hci 수업 프로젝트
 - 소개: 
 - 개발 기간: 2019/10/30 ~ 2019/12/16 
 - 역할: 
 - 개발 언어: java
 - tag: `java` `android-studio` `ppg` `hci`
+<br>
 
 ---
 <!--
@@ -72,10 +84,7 @@
 
 <br>
 
-- 와인 품질 예측
-  - 개발 기간: 
-  - 설명(업로드 예정)
-  - [소스 코드](https://github.com/minji-o-j/Wine-Quality)
+
 
 ---
 
