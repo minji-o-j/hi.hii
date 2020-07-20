@@ -1,4 +1,20 @@
-## 정민지 Minji Jung
+![image](https://img.shields.io/badge/Latest%20Update-200721-9cf?style=flat-square)
+---
+## 소개
+- 이름: 정민지  
+
+- Email: jminji98@gmail.com
+
+- GitHub: https://github.com/minji-o-j  
+
+- 상태: 상명대학교 휴먼지능정보공학과 재학중
+
+---
+## 기술
+### 활용 가능
+### 간단한 기능 구현 가능
+### 사용 경험 있음
+
 ---
 ## 프로젝트
 
@@ -38,7 +54,6 @@
   - 소스 코드(미공개)
   
 
-### 2020
 - 시각장애인을 위한 도보 환경 알리미
   - 개발 기간: 2020/04~
   - 설명(업로드 예정)
