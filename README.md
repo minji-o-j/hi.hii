@@ -31,6 +31,7 @@
 - 소개: [kakao arena](https://arena.kakao.com/c/7)에서 제공하는 dataset을 이용한 멜론 플레이리스트 예측 해보기
 - 개발 기간: 2020/07~(진행중)
 - 역할: 
+- 개발 언어: python
 - tag: `python` `text-mining` `data-analysis`
 
 <br>
@@ -39,6 +40,8 @@
 - 2020-1 교내 상생플러스 최우수상 수상
 - 소개: 
 - 개발 기간: 2020/04~(진행중)
+- 역할: 
+- 개발 언어: python
 - tag: `python` `tensorflow` `CNN` `object-detection` 
 <br>
 
@@ -82,8 +85,9 @@
 - 2019-1 교내 상생플러스 최우수상 수상
 - 소개: 
 - 개발 기간: 2019/04/21 ~ 2019/05/27  
-- [설명](https://github.com/minji-o-j/SOS-Application/blob/master/README.md)(업로드 예정)  
-- [소스 코드]()(업로드 예정)
+- 역할:
+- 개발 언어: java
+- tag: `java` `android-studio` `sos-application`
 <br>
 
 ---
