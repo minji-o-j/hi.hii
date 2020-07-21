@@ -17,23 +17,33 @@
 
 ---
 ## 프로젝트
+<!--
+- 수업, coc등 작성
+- 소개: 
+- 개발 기간: 
+- 역할:
+- 개발 언어:
+- tag:
+-->
+
 ### 멜론 플레이리스트 예측하기(비공개)
-- 개발 기간: 2020/07~(진행중)
 - 소개: [kakao arena](https://arena.kakao.com/c/7)에서 제공하는 dataset을 이용한 멜론 플레이리스트 예측 해보기
+- 개발 기간: 2020/07~(진행중)
 - 역할: 
 - tag: `python` `text-mining` `data-analysis`
 
 <br>
 
 ### [시각장애인을 위한 도보 환경 알리미](https://github.com/minji-o-j/system-for-visually-impaired)
-- 개발 기간: 2020/04~(진행중)
-- 소개: 
+- 소개
   - 2020-1 교내 상생플러스 최우수상 수상
+- 개발 기간: 2020/04~(진행중)
 - tag: `python` `tensorflow` `CNN` `object-detection` 
 <br>
 
 ### [와인 품질 예측](https://github.com/minji-o-j/Wine-Quality) (설명 업로드 예정)  
 - 2020-1 기계학습 수업 프로젝트  
+- 소개:
 - 개발 기간: 2020/04/03 ~ 2020/06/13  
 - 역할: SVM, Random-Forest 등을 이용한 와인 품질 예측 모델 제작  
 - 개발 언어: python  
@@ -47,6 +57,12 @@
 - 역할: ppg 센서와 안드로이드 연결, 심장 박동에 따른 감정 기준을 정하기 위한 실험 진행, 감정 기준 수립, ppi 측정과 hrv 측정 코드 작성, 캐릭터 디자인  
 - 개발 언어: java
 - tag: `java` `android-studio` `ppg` `hci`
+<br>
+
+### [독거노인을 위한 AI 스피커](https://github.com/minji-o-j/AI-Speaker-for-Senior-Citizen)  
+
+- 개발 기간: 2019/09/25 ~ 2019/12/05
+
 <br>
 
 ---
@@ -75,11 +91,7 @@
   - [소스 코드](https://github.com/minji-o-j/Unlocking-System-with-Gaze-Tracking)(업로드 예정)
 <br>
   
-- 독거노인을 위한 AI 스피커  
-  - 개발 기간: 2019/09/25 ~ 2019/12/05
-  - [설명](https://github.com/minji-o-j/AI-Speaker-for-Senior-Citizen/blob/master/README.md)
-  - [소스 코드](https://github.com/minji-o-j/AI-Speaker-for-Senior-Citizen)(업로드 예정)  
-<br>
+
 
 
 <br>
