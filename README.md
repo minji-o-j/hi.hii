@@ -19,6 +19,7 @@
 ## 프로젝트
 <!--
 - 수업, coc등 작성
+- 수상 내역
 - 소개: 
 - 개발 기간: 
 - 역할:
@@ -35,8 +36,8 @@
 <br>
 
 ### [시각장애인을 위한 도보 환경 알리미](https://github.com/minji-o-j/system-for-visually-impaired)
-- 소개
-  - 2020-1 교내 상생플러스 최우수상 수상
+- 2020-1 교내 상생플러스 최우수상 수상
+- 소개: 
 - 개발 기간: 2020/04~(진행중)
 - tag: `python` `tensorflow` `CNN` `object-detection` 
 <br>
@@ -60,9 +61,12 @@
 <br>
 
 ### [독거노인을 위한 AI 스피커](https://github.com/minji-o-j/AI-Speaker-for-Senior-Citizen)  
-
+- 소개: 일반적인 AI 스피커의 역할 뿐만 아니라 사용자가 있는 환경의 온·습도를 주기적으로 측정하여 필요시 환경 개선 솔루션 또는 개인 솔루션을 제공하는 스피커
+- 2019-2 교내 AI 경진대회 장려상 수상  
 - 개발 기간: 2019/09/25 ~ 2019/12/05
-
+- 역할:
+- 개발 언어: python
+- tag: `python` `raspberry-pi` `ai-speaker` `TTS` `STT` `web-crawling`
 <br>
 
 ---
