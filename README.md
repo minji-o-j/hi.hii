@@ -1,4 +1,5 @@
-![image](https://img.shields.io/badge/Latest%20Update-200722-9cf?style=flat-square)
+![image](https://img.shields.io/badge/Latest%20Update-200722-9cf?style=flat-square) 
+## ✏ 작성중😊
 ---
 ## 소개
 - 이름: 정민지  
@@ -96,7 +97,7 @@
 - 개발 기간: 2019/01/18 ~ 2019/02/01  
 - 역할: 기획, GUI 제작, 실험 진행, data 분석
 - 개발 언어:
-- tag: `C#` `Visual-Studio` `Blender`
+- tag: `C#` `Visual-Studio` `blend` `brainwave` `eeg` `p300` `neuro-marketing` `hci`
 <br>
 
 ### 뇌파 힐링기  
