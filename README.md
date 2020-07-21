@@ -69,6 +69,15 @@
 - tag: `python` `raspberry-pi` `ai-speaker` `TTS` `STT` `web-crawling`
 <br>
 
+### [시선 추적을 이용한 잠금 해제 시스템](https://github.com/minji-o-j/Unlocking-System-with-Gaze-Tracking)
+- coc 6기
+- 소개: 
+- 개발 기간: 2019/08/19 ~ 2019/09/11  
+- 역할:
+- 개발 언어: C#, C++  
+- tag: `c#` `unity` `opencv` `gaze-tracking` `eye-tracking` `hci`
+<br>
+
 ---
 <!--
 - 뇌파 힐링기  
@@ -89,11 +98,7 @@
 <br>
 
 
-- 시선 추적을 이용한 잠금 해제 시스템  
-  - 개발 기간: 2019/08/19 ~ 2019/09/11  
-  - [설명](https://github.com/minji-o-j/Unlocking-System-with-Gaze-Tracking/blob/master/README.md)
-  - [소스 코드](https://github.com/minji-o-j/Unlocking-System-with-Gaze-Tracking)(업로드 예정)
-<br>
+
   
 
 
