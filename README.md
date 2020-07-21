@@ -1,4 +1,4 @@
-![image](https://img.shields.io/badge/Latest%20Update-200721-9cf?style=flat-square)
+![image](https://img.shields.io/badge/Latest%20Update-200722-9cf?style=flat-square)
 ---
 ## 소개
 - 이름: 정민지  
@@ -69,13 +69,21 @@
 - tag: `python` `raspberry-pi` `ai-speaker` `TTS` `STT` `web-crawling`
 <br>
 
-### [시선 추적을 이용한 잠금 해제 시스템](https://github.com/minji-o-j/Unlocking-System-with-Gaze-Tracking)
+### [시선 추적을 이용한 잠금 해제 시스템](https://github.com/minji-o-j/Unlocking-System-with-Gaze-Tracking)  (코드 업로드 예정)
 - coc 6기
 - 소개: 
 - 개발 기간: 2019/08/19 ~ 2019/09/11  
 - 역할:
 - 개발 언어: C#, C++  
 - tag: `c#` `unity` `opencv` `gaze-tracking` `eye-tracking` `hci`
+<br>
+
+### [SOS 어플리케이션](https://github.com/minji-o-j/SOS-Application)  (설명 업로드 예정)  
+- 2019-1 교내 상생플러스 최우수상 수상
+- 소개: 
+- 개발 기간: 2019/04/21 ~ 2019/05/27  
+- [설명](https://github.com/minji-o-j/SOS-Application/blob/master/README.md)(업로드 예정)  
+- [소스 코드]()(업로드 예정)
 <br>
 
 ---
@@ -91,11 +99,7 @@
   - [소스 코드](https://github.com/minji-o-j/Advertisement-Analysis-Program)(업로드 예정)
 <br>
  
-- SOS 어플리케이션  
-  - 개발 기간: 2019/04/21 ~ 2019/05/27  
-  - [설명](https://github.com/minji-o-j/SOS-Application/blob/master/README.md)(업로드 예정)  
-  - [소스 코드](https://github.com/minji-o-j/SOS-Application)(업로드 예정)
-<br>
+
 
 
 
