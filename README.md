@@ -32,7 +32,7 @@
 - 개발 기간: 2020/07~(진행중)
 - 역할: 
 - 개발 언어: python
-- tag: `python` `text-mining` `data-analysis`
+- tag: `python` `tensorflow` `dataframe` `text-mining` `data-analysis`
 
 <br>
 
@@ -51,16 +51,16 @@
 - 개발 기간: 2020/04/03 ~ 2020/06/13  
 - 역할: SVM, Random-Forest 등을 이용한 와인 품질 예측 모델 제작  
 - 개발 언어: python  
-- tag: `python` `Machine-Learning` `Deep-Learning` `data-analysis`
+- tag: `python` `pytorch` `Machine-Learning` `Deep-Learning` `data-analysis`
 <br>
 
 ### [음식 추천 어플리케이션](https://github.com/minji-o-j/Food-Recommendation-Application) (설명, 코드 업로드 예정)  
 - 2019-2 hci 수업 프로젝트
 - 소개: 심장 박동을 이용하여 사용자의 기분을 판단. 사용자의 기분을 개선해주는 메뉴를 추천하는 어플리케이션 개발 
 - 개발 기간: 2019/10/30 ~ 2019/12/16 
-- 역할: ppg 센서와 안드로이드 연결, 심장 박동에 따른 감정 기준을 정하기 위한 실험 진행, 감정 기준 수립, ppi 측정과 hrv 측정 코드 작성, 캐릭터 디자인  
+- 역할: 기획, ppg 센서와 안드로이드 연결, 심장 박동에 따른 감정 기준을 정하기 위한 실험 진행, 감정 기준 수립, ppi 측정과 hrv 측정 프로그램 작성, 캐릭터 디자인  
 - 개발 언어: java
-- tag: `java` `android-studio` `ppg` `hci`
+- tag: `java` `android-studio` `ppg` `ppi` `hrv` `fft` `hci`
 <br>
 
 ### [독거노인을 위한 AI 스피커](https://github.com/minji-o-j/AI-Speaker-for-Senior-Citizen)  
@@ -78,7 +78,7 @@
 - 개발 기간: 2019/08/19 ~ 2019/09/11  
 - 역할:
 - 개발 언어: C#, C++  
-- tag: `c#` `unity` `opencv` `gaze-tracking` `eye-tracking` `hci`
+- tag: `c#` `Visual-Studio` `Unity3D` `opencv` `gaze-tracking` `eye-tracking` `hci`
 <br>
 
 ### [SOS 어플리케이션](https://github.com/minji-o-j/SOS-Application)  (설명 업로드 예정)  
@@ -90,28 +90,25 @@
 - tag: `java` `android-studio` `sos-application`
 <br>
 
+### [뉴로 마케팅을 이용한 광고 분석 프로그램](https://github.com/minji-o-j/Advertisement-Analysis-Program)
+- coc 5기
+- 소개: 
+- 개발 기간: 2019/01/18 ~ 2019/02/01  
+- 역할: 기획, GUI 제작, 실험 진행, data 분석
+- 개발 언어:
+- tag: `C#` `Visual-Studio` `Blender`
+<br>
+
+### 뇌파 힐링기  
+- coc 4기
+- 소개: 
+- 개발 기간: 2018/08/24~2018/09/10
+- 역할: 기획, Projection-Mapping, 영상 제작, 
+- 개발 언어: C#
+- tag: `C#` `Visual-Studio` `Resolume-Arena4` 
 ---
 <!--
-- 뇌파 힐링기  
-  - 개발 기간: 2018/08/24~2018/09/10
-  - [설명](https://github.com/minji-o-j/Healing-Machine-with-BrainWave/blob/master/README.md)
-  - [소스 코드](https://github.com/minji-o-j/Healing-Machine-with-BrainWave) (업로드 예정)
-  
-- 뉴로 마케팅을 이용한 광고 분석 프로그램  
-  - 개발 기간: 2019/01/18 ~ 2019/02/01  
-  - [설명](https://github.com/minji-o-j/Advertisement-Analysis-Program/blob/master/README.md)
-  - [소스 코드](https://github.com/minji-o-j/Advertisement-Analysis-Program)(업로드 예정)
-<br>
- 
 
-
-
-
-  
-
-
-
-<br>
 
 
 
