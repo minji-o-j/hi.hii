@@ -37,7 +37,7 @@
 
 <br>
 
-### [시각장애인을 위한 도보 환경 알리미](https://github.com/minji-o-j/system-for-visually-impaired)
+### [시각장애인을 위한 도보 환경 알리미](https://github.com/minji-o-j/system-for-visually-impaired)  (설명 업로드 예정)  
 - 2020-1 교내 상생플러스 최우수상 수상
 - 소개: 
 - 개발 기간: 2020/04~(진행중)
