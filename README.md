@@ -31,9 +31,9 @@
 ### [멜론 플레이리스트 예측하기](https://github.com/minji-o-j/kakao-arena) - 진행중, 아직은 비공개!(추후 공개 예정)
 - 소개: [kakao arena](https://arena.kakao.com/c/7)에서 제공하는 dataset을 이용한 멜론 플레이리스트 예측 해보기
 - 개발 기간: 2020/07~(진행중)
-- 역할: dataframe 이용한 전처리, Auto-Encoder 학습 등등(진행중~)
+- 역할: dataframe 이용한 전처리, clustering 학습 등등(진행중~)
 - 개발 언어: python
-- tag: `python` `tensorflow` `dataframe` `text-mining` `data-analysis`
+- tag: `python` `tensorflow` `dataframe` `data-analysis` `clustering`
 
 <br>
 
