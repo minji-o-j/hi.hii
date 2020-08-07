@@ -1,4 +1,4 @@
-![image](https://img.shields.io/badge/Latest%20Update-200730-9cf?style=flat-square) 
+![image](https://img.shields.io/badge/Latest%20Update-200808-9cf?style=flat-square) 
 ## ✏ 작성중😊
 ---
 ## 소개
@@ -73,7 +73,7 @@
 - tag: `python` `raspberry-pi` `ai-speaker` `TTS` `STT` `web-crawling`
 <br>
 
-### [시선 추적을 이용한 잠금 해제 시스템](https://github.com/minji-o-j/Unlocking-System-with-Gaze-Tracking)  (코드 업로드 예정)
+### [시선 추적을 이용한 잠금 해제 시스템](https://github.com/minji-o-j/Unlocking-System-with-Gaze-Tracking)  
 - coc 6기
 - 소개: 
 - 개발 기간: 2019/08/19 ~ 2019/09/11  
