@@ -11,8 +11,14 @@
 - 상태: 상명대학교 휴먼지능정보공학과 재학중
 
 ---
+
 [프로젝트](#프로젝트)  
 [외부 대회 참가 (Kaggle, DACON 등)](#외부-대회-참가-kaggle-dacon-등)
+
+---
+## tag
+[`python`](https://github.com/search?q=user%3Aminji-o-j+python)
+---
 <!--## 기술
 ### 활용 가능
 ### 간단한 기능 구현 가능
