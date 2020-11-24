@@ -32,7 +32,7 @@
 - 개발 기간: 2020/11~(진행중)
 - 역할: 모델 fine-tuning 및 모든 작업 
 - 개발 언어: python
-- tag: `python` `pytorch` `NLG` `gpt2` `kogpt2` `web-crawling`
+- tag: `python` `pytorch` `NLG` `gpt2` `kogpt2` [`web-crawling`](https://github.com/search?q=user%3Aminji-o-j+web-crawling)
 
 <br>
 
