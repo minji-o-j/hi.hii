@@ -27,6 +27,14 @@
 - 개발 언어:
 - tag:
 -->
+### [KoGPT2 이용하여 플레이리스트 이름 생성](https://github.com/minji-o-j/KoGPT2-finetuning)
+- 소개: KoGPT2 fine-tuning하여 플레이리스트 이름 생성
+- 개발 기간: 2020/11~(진행중)
+- 역할: 모델 fine-tuning 및 모든 작업 
+- 개발 언어: python
+- tag: `python` `pytorch` `NLG` `gpt2` `kogpt2` `web-crawling`
+
+<br>
 
 ### [멜론 플레이리스트 예측하기](https://github.com/minji-o-j/kakao-arena)
 - 소개: [kakao arena](https://arena.kakao.com/c/7)에서 제공하는 dataset을 이용한 멜론 플레이리스트 예측 해보기
