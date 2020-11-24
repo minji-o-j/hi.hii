@@ -18,6 +18,7 @@
 ---
 ## tag
 [`python`](https://github.com/search?q=user%3Aminji-o-j+python)
+
 ---
 <!--## 기술
 ### 활용 가능
