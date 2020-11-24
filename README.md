@@ -36,6 +36,15 @@
 
 <br>
 
+### [Mutube](https://github.com/minji-o-j/Mutube)
+- 소개: 
+- 개발 기간: 2020/~(진행중)
+- 역할:  
+- 개발 언어: python
+- tag: `python` `pytorch` `NLP` `NLG` `gpt2` `kogpt2`
+
+<br>
+
 ### [멜론 플레이리스트 예측하기](https://github.com/minji-o-j/kakao-arena)
 - 소개: [kakao arena](https://arena.kakao.com/c/7)에서 제공하는 dataset을 이용한 멜론 플레이리스트 예측 해보기
 - 개발 기간: 2020/07~(진행중)
