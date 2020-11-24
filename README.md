@@ -38,7 +38,7 @@
 
 <br>
 
-### [Mutube](https://github.com/minji-o-j/MuTube)
+### [Mutube - 플레이리스트 기반 노래 추천 시스템](https://github.com/minji-o-j/MuTube)
 - 소개: 
 - 개발 기간: 2020/~(진행중)
 - 역할:  
