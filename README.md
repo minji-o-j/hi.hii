@@ -40,7 +40,7 @@
 
 ### [Mutube - 플레이리스트 기반 노래 추천 시스템](https://github.com/minji-o-j/MuTube)
 - 소개: 
-- 개발 기간: 2020/~(진행중)
+- 개발 기간: 2020/09/17~(진행중)
 - 역할:  
 - 개발 언어: python
 - tag: `python` `pytorch` `NLP` `NLG` `gpt2` `kogpt2`
