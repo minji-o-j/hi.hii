@@ -38,7 +38,7 @@
 
 <br>
 
-### [Mutube](https://github.com/minji-o-j/Mutube)
+### [Mutube](https://github.com/minji-o-j/MuTube)
 - 소개: 
 - 개발 기간: 2020/~(진행중)
 - 역할:  
