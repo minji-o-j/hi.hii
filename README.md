@@ -45,14 +45,6 @@
 
 <br>
 
-### [멜론 플레이리스트 예측하기](https://github.com/minji-o-j/kakao-arena)
-- 소개: [kakao arena](https://arena.kakao.com/c/7)에서 제공하는 dataset을 이용한 멜론 플레이리스트 예측 해보기
-- 개발 기간: 2020/07~(진행중)
-- 역할: dataframe 이용한 전처리, clustering 학습 등등(진행중~)
-- 개발 언어: python
-- tag: `python` `tensorflow` `dataframe` `data-analysis` `clustering`
-
-<br>
 
 ### [시각장애인을 위한 도보 환경 알리미](https://github.com/minji-o-j/system-for-visually-impaired) - 진행중! (설명 업로드 예정)  
 - 2020-1 교내 상생플러스 최우수상 수상
@@ -125,6 +117,18 @@
 - 개발 언어: C#
 - tag: `C#` `Visual-Studio` `Resolume-Arena4` 
 ---
+
+
+## 외부 대회 참가(Kaggle, DACON 등)
+
+### [멜론 플레이리스트 예측하기](https://github.com/minji-o-j/kakao-arena)
+- 소개: [kakao arena](https://arena.kakao.com/c/7)에서 제공하는 dataset을 이용한 멜론 플레이리스트 예측 해보기
+- 개발 기간: 2020/07~(진행중)
+- 역할: dataframe 이용한 전처리, clustering 학습 등등(진행중~)
+- 개발 언어: python
+- tag: `python` `tensorflow` `dataframe` `data-analysis` `clustering`
+
+<br>
 <!--
 
 
