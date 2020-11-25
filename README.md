@@ -41,7 +41,7 @@
 - 개발 기간: 2020/11~(진행중)
 - 역할: 모델 fine-tuning 및 모든 작업 
 - 개발 언어: python
-- tag: `python` `pytorch` `NLG` `gpt2` `kogpt2` [`web-crawling`](https://github.com/search?q=user%3Aminji-o-j+web-crawling)
+- tag: [`python`](https://github.com/search?q=user%3Aminji-o-j+python) [`pytorch`](https://github.com/search?q=user%3Aminji-o-j+pytorch) [`NLP`](https://github.com/search?q=user%3Aminji-o-j+NLP) [`NLG`](https://github.com/search?q=user%3Aminji-o-j+NLG) [`gpt2`](https://github.com/search?q=user%3Aminji-o-j+gpt2) [`kogpt2`](https://github.com/search?q=user%3Aminji-o-j+kogpt2) [`kogpt2-finetuning`](https://github.com/search?q=user%3Aminji-o-j+kogpt2-finetuning) [`web-crawler`](https://github.com/search?q=user%3Aminji-o-j+web-crawler)
 
 <br>
 
