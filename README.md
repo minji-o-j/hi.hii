@@ -10,7 +10,8 @@
 
 - 상태: 상명대학교 휴먼지능정보공학과 재학중
 
-- `computer-vision` `hci`
+- [`computer-vision`](https://github.com/search?q=user%3Aminji-o-j+computer-vision) 
+[`hci`](https://github.com/search?q=user%3Aminji-o-j+hci)
 ---
 
 [프로젝트](#프로젝트)  
