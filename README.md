@@ -67,7 +67,15 @@
 - 개발 기간: 2020/09/17~(진행중)
 - 역할: 플레이리스트 이름 생성 (NLG)
 - 개발 언어: python
-- tag: [`python`](https://github.com/search?q=user%3Aminji-o-j+python) [`pytorch`](https://github.com/search?q=user%3Aminji-o-j+pytorch) [`NLP`](https://github.com/search?q=user%3Aminji-o-j+NLP) [`NLG`](https://github.com/search?q=user%3Aminji-o-j+NLG) [`gpt2`](https://github.com/search?q=user%3Aminji-o-j+gpt2) [`kogpt2`](https://github.com/search?q=user%3Aminji-o-j+kogpt2) [`kogpt2-finetuning`](https://github.com/search?q=user%3Aminji-o-j+kogpt2-finetuning) [`web-crawler`](https://github.com/search?q=user%3Aminji-o-j+web-crawler)
+- tag: 
+[`python`](https://github.com/search?q=user%3Aminji-o-j+python) 
+[`pytorch`](https://github.com/search?q=user%3Aminji-o-j+pytorch) 
+[`NLP`](https://github.com/search?q=user%3Aminji-o-j+NLP) 
+[`NLG`](https://github.com/search?q=user%3Aminji-o-j+NLG) 
+[`gpt2`](https://github.com/search?q=user%3Aminji-o-j+gpt2) 
+[`kogpt2`](https://github.com/search?q=user%3Aminji-o-j+kogpt2) 
+[`kogpt2-finetuning`](https://github.com/search?q=user%3Aminji-o-j+kogpt2-finetuning) 
+[`web-crawler`](https://github.com/search?q=user%3Aminji-o-j+web-crawler)
 
 <br>
 
