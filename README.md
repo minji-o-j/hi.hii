@@ -84,7 +84,7 @@
 - 2020-1 교내 상생플러스 최우수상 수상
 - 소개: 
 - 개발 기간: 2020/04~2020/12
-- 역할: 기획, 데이터 수집, 모델 fine-tuning, 신호등 색상 검출 알고리즘 구현
+- 역할: 기획, 데이터 수집, 모델 fine-tuning, 신호등 색상 검출 및 도보 환경 알리미 알고리즘 구현
 - 개발 언어: python
 - tag: `python` `tensorflow` `CNN` `object-detection` 
 <br>
