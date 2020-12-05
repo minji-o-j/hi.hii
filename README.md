@@ -1,4 +1,4 @@
-![image](https://img.shields.io/badge/Latest%20Update-201128-9cf?style=flat-square) 
+![image](https://img.shields.io/badge/Latest%20Update-201205-9cf?style=flat-square) 
 ## ✏ 작성중😊
 ---
 ## 소개
@@ -80,11 +80,11 @@
 <br>
 
 
-### [시각장애인을 위한 도보 환경 알리미](https://github.com/minji-o-j/system-for-visually-impaired) - 진행중! (설명 업로드 예정)  
+### [시각장애인을 위한 도보 환경 알리미](https://github.com/minji-o-j/system-for-visually-impaired) -  (설명 업로드 예정)  
 - 2020-1 교내 상생플러스 최우수상 수상
 - 소개: 
-- 개발 기간: 2020/04~(진행중)
-- 역할: 
+- 개발 기간: 2020/04~2020/12
+- 역할: 기획, 데이터 수집, 모델 fine-tuning, 신호등 색상 검출 알고리즘 구현
 - 개발 언어: python
 - tag: `python` `tensorflow` `CNN` `object-detection` 
 <br>
