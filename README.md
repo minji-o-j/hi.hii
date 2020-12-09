@@ -62,7 +62,7 @@
 
 <br>
 
-### [Mutube - 플레이리스트 기반 노래 추천 시스템](https://github.com/minji-o-j/MuTube) - 진행중! (설명 업로드 예정) 
+### [Mutube - 플레이리스트 기반 노래 추천 시스템](https://github.com/minji-o-j/MuTube) 
 - 소개: 
 - 개발 기간: 2020/09/17 ~ 2020/11/28
 - 역할: 플레이리스트 이름 생성 (NLG)
