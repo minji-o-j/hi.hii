@@ -86,7 +86,10 @@
 - 개발 기간: 2020/04~2020/12
 - 역할: 기획, 데이터 수집, 모델 fine-tuning, 신호등 색상 검출 및 도보 환경 알리미 알고리즘 구현
 - 개발 언어: python
-- tag: `python` `tensorflow` `CNN` `object-detection` 
+- tag: 
+[`python`](https://github.com/search?q=user%3Aminji-o-j+python) 
+[`pytorch`](https://github.com/search?q=user%3Aminji-o-j+pytorch) 
+`object-detection` 
 <br>
 
 ### [와인 품질 예측](https://github.com/minji-o-j/Wine-Quality) (설명 업로드 예정)  
