@@ -1,4 +1,4 @@
-![image](https://img.shields.io/badge/Latest%20Update-201205-9cf?style=flat-square) 
+![image](https://img.shields.io/badge/Latest%20Update-210308-9cf?style=flat-square) 
 ## ✏ 작성중😊
 ---
 ## 소개
@@ -10,8 +10,9 @@
 
 - 상태: 상명대학교 휴먼지능정보공학과 재학중 (2018.03~)
 
-- [`computer-vision`](https://github.com/search?q=user%3Aminji-o-j+computer-vision) 
-[`hci`](https://github.com/search?q=user%3Aminji-o-j+hci)
+- [`hci`](https://github.com/search?q=user%3Aminji-o-j+hci)
+[`computer-vision`](https://github.com/search?q=user%3Aminji-o-j+computer-vision) 
+
 ---
 
 [프로젝트](#프로젝트)  
@@ -35,6 +36,11 @@
 ### 사용 경험 있음-->
 
 ---
+## Researcher
+UCI  
+Dec.2020~Feb.2021
+
+---
 ## 프로젝트
 <!--
 - 수업, coc등 작성
@@ -45,43 +51,12 @@
 - 개발 언어:
 - tag:
 -->
-### [KoGPT2 이용하여 플레이리스트 이름 생성](https://github.com/minji-o-j/KoGPT2-finetuning)
-- 소개: KoGPT2 fine-tuning하여 플레이리스트 이름 생성
-- 개발 기간: 2020/11
-- 역할: 모델 fine-tuning 및 모든 작업 
-- 개발 언어: python
-- tag: 
-[`python`](https://github.com/search?q=user%3Aminji-o-j+python) 
-[`pytorch`](https://github.com/search?q=user%3Aminji-o-j+pytorch) 
-[`NLP`](https://github.com/search?q=user%3Aminji-o-j+NLP) 
-[`NLG`](https://github.com/search?q=user%3Aminji-o-j+NLG) 
-[`gpt2`](https://github.com/search?q=user%3Aminji-o-j+gpt2) 
-[`kogpt2`](https://github.com/search?q=user%3Aminji-o-j+kogpt2) 
-[`kogpt2-finetuning`](https://github.com/search?q=user%3Aminji-o-j+kogpt2-finetuning) 
-[`web-crawler`](https://github.com/search?q=user%3Aminji-o-j+web-crawler)
-
-<br>
-
-### [Mutube - 플레이리스트 기반 노래 추천 시스템](https://github.com/minji-o-j/MuTube) 
-- 소개: 
-- 개발 기간: 2020/09/17 ~ 2020/11/28
-- 역할: 플레이리스트 이름 생성 (NLG)
-- 개발 언어: python
-- tag: 
-[`python`](https://github.com/search?q=user%3Aminji-o-j+python) 
-[`pytorch`](https://github.com/search?q=user%3Aminji-o-j+pytorch) 
-[`NLP`](https://github.com/search?q=user%3Aminji-o-j+NLP) 
-[`NLG`](https://github.com/search?q=user%3Aminji-o-j+NLG) 
-[`gpt2`](https://github.com/search?q=user%3Aminji-o-j+gpt2) 
-[`kogpt2`](https://github.com/search?q=user%3Aminji-o-j+kogpt2) 
-[`kogpt2-finetuning`](https://github.com/search?q=user%3Aminji-o-j+kogpt2-finetuning) 
-[`web-crawler`](https://github.com/search?q=user%3Aminji-o-j+web-crawler)
-
-<br>
 
 
-### [시각장애인을 위한 도보 환경 알리미](https://github.com/minji-o-j/system-for-visually-impaired) -  (설명 업로드 예정)  
+### [시각장애인을 위한 도보 환경 알리미](https://github.com/minji-o-j/system-for-visually-impaired)  
 - 2020-1 교내 상생플러스 최우수상 수상
+- 2020-2 교내 상생플러스 대상 수상
+- 2020-2 교내 AI 경진대회 장려상 수상
 - 소개: 
 - 개발 기간: 2020/04~2020/12
 - 역할: 기획, 데이터 수집, 모델 fine-tuning, 신호등 색상 검출 및 도보 환경 알리미 알고리즘 구현
@@ -91,6 +66,24 @@
 [`pytorch`](https://github.com/search?q=user%3Aminji-o-j+pytorch) 
 `object-detection` 
 <br>
+
+### [Mutube - 플레이리스트 기반 노래 추천 시스템](https://github.com/minji-o-j/MuTube) 
+### [KoGPT2 이용하여 플레이리스트 이름 생성](https://github.com/minji-o-j/KoGPT2-finetuning)
+- 소개: 
+- 개발 기간: 2020/09/17 ~ 2020/11/28
+- 역할: 플레이리스트 이름 생성 (NLG) 관련 모든 작업
+- 개발 언어: python
+- tag: 
+[`python`](https://github.com/search?q=user%3Aminji-o-j+python) 
+[`pytorch`](https://github.com/search?q=user%3Aminji-o-j+pytorch) 
+[`NLP`](https://github.com/search?q=user%3Aminji-o-j+NLP) 
+[`NLG`](https://github.com/search?q=user%3Aminji-o-j+NLG) 
+[`gpt2`](https://github.com/search?q=user%3Aminji-o-j+gpt2) 
+[`kogpt2`](https://github.com/search?q=user%3Aminji-o-j+kogpt2) 
+[`kogpt2-finetuning`](https://github.com/search?q=user%3Aminji-o-j+kogpt2-finetuning) 
+[`web-crawler`](https://github.com/search?q=user%3Aminji-o-j+web-crawler)
+<br>
+
 
 ### [와인 품질 예측](https://github.com/minji-o-j/Wine-Quality) (설명 업로드 예정)  
 - 2020-1 기계학습 수업 프로젝트  
