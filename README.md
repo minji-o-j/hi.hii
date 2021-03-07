@@ -8,7 +8,7 @@
 
 - GitHub: https://github.com/minji-o-j  
 
-- 상태: 상명대학교 휴먼지능정보공학과 재학중
+- 상태: 상명대학교 휴먼지능정보공학과 재학중 (2018.03~)
 
 - [`computer-vision`](https://github.com/search?q=user%3Aminji-o-j+computer-vision) 
 [`hci`](https://github.com/search?q=user%3Aminji-o-j+hci)
