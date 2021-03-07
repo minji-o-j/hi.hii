@@ -45,9 +45,9 @@
 - 개발 언어:
 - tag:
 -->
-### [KoGPT2 이용하여 플레이리스트 이름 생성](https://github.com/minji-o-j/KoGPT2-finetuning)-(설명 업로드 예정) 
+### [KoGPT2 이용하여 플레이리스트 이름 생성](https://github.com/minji-o-j/KoGPT2-finetuning)
 - 소개: KoGPT2 fine-tuning하여 플레이리스트 이름 생성
-- 개발 기간: 2020/11~(진행중)
+- 개발 기간: 2020/11
 - 역할: 모델 fine-tuning 및 모든 작업 
 - 개발 언어: python
 - tag: 
