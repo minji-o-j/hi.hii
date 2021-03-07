@@ -108,7 +108,7 @@ Dec.2020~Feb.2021
 - 2019-2 교내 AI 경진대회 장려상 수상  
 - 소개: 일반적인 AI 스피커의 역할 뿐만 아니라 사용자가 있는 환경의 온·습도를 주기적으로 측정하여 필요시 환경 개선 솔루션 또는 개인 솔루션을 제공하는 스피커
 - 개발 기간: 2019/09/25 ~ 2019/12/05
-- 역할:
+- 역할: 개발 전과정
 - 개발 언어: python
 - tag: `python` `raspberry-pi` `ai-speaker` `TTS` `STT` `web-crawling`
 <br>
@@ -117,7 +117,7 @@ Dec.2020~Feb.2021
 - coc 6기
 - 소개: 
 - 개발 기간: 2019/08/19 ~ 2019/09/11  
-- 역할:
+- 역할: 개발 전과정
 - 개발 언어: C#, C++  
 - tag: `c#` `Visual-Studio` `Unity3D` `opencv` `gaze-tracking` `eye-tracking` `hci`
 <br>
@@ -126,7 +126,7 @@ Dec.2020~Feb.2021
 - 2019-1 교내 상생플러스 최우수상 수상
 - 소개: 
 - 개발 기간: 2019/04/21 ~ 2019/05/27  
-- 역할:
+- 역할: 개발 전과정
 - 개발 언어: java
 - tag: `java` `android-studio` `sos-application`
 <br>
@@ -144,7 +144,7 @@ Dec.2020~Feb.2021
 - coc 4기
 - 소개: 뇌파를 이용하여 사용자의 감정(+/-)을 판단하고 사용자의 감정을 긍정적인 방향으로 개선하기 위한 영상물을 재생한다.
 - 개발 기간: 2018/08/24~2018/09/10
-- 역할: 기획, Projection-Mapping, 영상 제작, 
+- 역할: 기획, Projection-Mapping, 영상 제작, 실험 진행
 - 개발 언어: C#
 - tag: `C#` `Visual-Studio` `Resolume-Arena4` 
 ---
@@ -155,7 +155,7 @@ Dec.2020~Feb.2021
 ### [멜론 플레이리스트 예측하기](https://github.com/minji-o-j/kakao-arena)
 - 소개: [kakao arena](https://arena.kakao.com/c/7)에서 제공하는 dataset을 이용한 멜론 플레이리스트 예측 해보기
 - 개발 기간: 2020/07~(진행중)
-- 역할: dataframe 이용한 전처리, clustering 학습 등등(진행중~)
+- 역할: dataframe 이용한 전처리, clustering 학습 등
 - 개발 언어: python
 - tag: `python` `tensorflow` `dataframe` `data-analysis` `clustering`
 
