@@ -68,7 +68,8 @@ Dec.2020~Feb.2021
 <br>
 
 ### [Mutube - 플레이리스트 기반 노래 추천 시스템](https://github.com/minji-o-j/MuTube) 
-### [KoGPT2 이용하여 플레이리스트 이름 생성](https://github.com/minji-o-j/KoGPT2-finetuning)
+#### [(KoGPT2 이용하여 플레이리스트 이름 생성)](https://github.com/minji-o-j/KoGPT2-finetuning)
+- 2020-2 교내 AI 경진대회 장려상 수상
 - 소개: 
 - 개발 기간: 2020/09/17 ~ 2020/11/28
 - 역할: 플레이리스트 이름 생성 (NLG) 관련 모든 작업
